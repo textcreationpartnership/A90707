@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter sent to the Honourable William Lenthall, Esquire, Speaker of the House of Commons, wherein is truely related the great victory obtained by Gods blessing, by the Parliaments army, against the Kings forces, neer Newbery, on Sunday the 27. of this present October. VVhich letter was read in the House of Commons, and ordered to be printed. Hen. Elsynge, Cler. Parl. D. Com.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90707</idno>
+            <idno type="STC">Wing P2248</idno>
+            <idno type="STC">Thomason E14_16</idno>
+            <idno type="STC">ESTC R8323</idno>
+            <idno type="EEBO-CITATION">99873277</idno>
+            <idno type="PROQUEST">99873277</idno>
+            <idno type="VID">125742</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90707)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125742)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 3:E14[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter sent to the Honourable William Lenthall, Esquire, Speaker of the House of Commons, wherein is truely related the great victory obtained by Gods blessing, by the Parliaments army, against the Kings forces, neer Newbery, on Sunday the 27. of this present October. VVhich letter was read in the House of Commons, and ordered to be printed. Hen. Elsynge, Cler. Parl. D. Com.</title>
+                  <author>Pindar, Martin.</author>
+                  <author>England and Wales. Parliament. House of Commons. aut</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edw. Husbands,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>October 29. 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Newbery, 28. Octob. Munday.  Martin Pindar, Thomas Herbert, Iohn Prickman, Stephen White.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125742:1" rendition="simple:additions"/>
+            <p>A LETTER Sent to the Honourable <hi>William Lenthall,</hi> Eſquire, Speaker of the Houſe of <hi>Commons,</hi> wherein is truely Related the great Victory obtained by Gods bleſsing, by the Parliaments Army, Againſt the Kings Forces, Neer <hi>NEWBERY,</hi> on Sunday the 27. of this preſent <hi>October.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>VVhich Letter was read in the Houſe of <hi>Commons,</hi> and Ordered to be Printed.</p>
+                        <closer>
+                           <signed>Hen. Elſynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>London. Printed for <hi>Edw Husbands. October</hi> 29. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:125742:2"/>
+            <opener>
+               <salute>Honorable Sir,</salute>
+            </opener>
+            <p>THough our other Imployments, in and about the Army, may excuſe us in point of News; yet being Eye-Witneſſes of this late Fight, and knowing your kinde acceptance of ſome preſents, though without the Circle, and eſpecially deſirons to expreſſe our ioy for this ſucceſs, which the Lord of Hoaſts upon his own day has vouchſafed us, We preſume to preſs in with the crowd, and to make it more cleer, ſhall give you the preceding circumſtan<g ref="char:EOLhyphen"/>tes: After a weeks tedious, but ſpeedy mareh of my Lord Generalls Infantry, and one nights refreſhment at <hi>Reading,</hi> in two dayes further progreſs we drew up afore <hi>Newbery,</hi> as neer the Town as the Enemies Canon would ſuffer. This was upon Friday the <hi>25</hi> of <hi>Octob.</hi> the King kept within the town, guarded by his Artillery; but his body of horſe and foot drew out into <hi>Speenfield,</hi> the mid-way twixt the town and caſtle; both to make his Army ſeem more numerous, and to embattle them in a plaer of extraordinary abvantage; that day afforded
+<pb facs="tcp:125742:2"/>nothing ſave an interview (the interpoſing ri<g ref="char:EOLhyphen"/>ver hindered our deſired fight, on their ſide ap<g ref="char:EOLhyphen"/>peared rather a declining to be ingaged, either that their numbers were not equall, or from an expectation of Prince <hi>Ruperts</hi> advance with <hi>3000</hi> Horſe or Dragoons, and the return of the Earl of <hi>Northampton</hi> from <hi>Banbury</hi> with <hi>1000.</hi>) The Enemies ſtrength is reported to have bin <hi>8000</hi> foot and <hi>5000</hi> horſe, which albeit a gal<g ref="char:EOLhyphen"/>lant Army, yet upon our drawing into a Bat<g ref="char:EOLhyphen"/>talia, they durſt not take the field, but to coun<g ref="char:EOLhyphen"/>terpoiſe our numbers with his ſtratagems; he fell mainly to fortifie the town, eſpecial<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y the Avenues, &amp; having rats'd his batteries, &amp; lin'd the hedges, ſtood upon his guard, &amp; with ſome great peeces, where he ſaw the biggeſt bodies, &amp; moſt advantage, liberally ſent us ſome balls, which kild <hi>2</hi> or <hi>3</hi> horſe, but hurt not their riders. For many hours ſome parties of Horſe skir<g ref="char:EOLhyphen"/>miſht twixt both the Armies; in which play we had the beſt: Of our part, but one man fell, of theirs four or five, of which, one was Knight<g ref="char:EOLhyphen"/>ed. It being impoſſible to ingage them, with<g ref="char:EOLhyphen"/>out much hazard, that night the greater part of our Army marcht to <hi>Cheveley.</hi> The Horſe commanded by Sir <hi>Will. Waller,</hi> and Sir <hi>Will.
+<pb facs="tcp:125742:3"/>Balfore:</hi> The Foot, by Sergeant Major Ge<g ref="char:EOLhyphen"/>nerall <hi>Skippon,</hi> whileſt the other incampt before the Eaſt ſide of the Town, and ordered by the Earl of <hi>Mancheſter,</hi> at one ſame time having agreed, to ſtorm the Garriſon on both ſides. That night, and the next, we quartered in the open field: but neither the coldneſſe of the Weather, nor want of uſuall Proviſion, any whit diſanimated the Souldier; the expecta<g ref="char:EOLhyphen"/>tion of fight; ſwallowing up all other extremi<g ref="char:EOLhyphen"/>ties. Howbeit, moſt of them had three dayes Proviſion prepared by Command in's Snap<g ref="char:EOLhyphen"/>ſack. By day break upon <hi>Sunday,</hi> the Horſe and Foot commanded by Sir <hi>Will. Waller,</hi> and Major Gen. <hi>Skippon,</hi> were upon their march, in four hours ſurrounded <hi>Dunnington</hi> Caſtle, and made their approach towards the Weſt of <hi>Newbery.</hi> By the way we intercepted two or three Carts of their Proviſion, intended they ſay for His Majeſty; but in reſpect an unwor<g ref="char:EOLhyphen"/>thy race about Him, ſhare with Him, and that our men more needed it, we diſpoſed it. And at the ſame time took neer <hi>100.</hi> Horſe and Foot of theirs, ſtragling. To recompence which, they fell upon our Rear from the Caſtle, and took ten or <hi>12.</hi> of ours priſoners. Vpon this march
+<pb facs="tcp:125742:3"/>we received the report, that <hi>Newcaſtle</hi> was ta<g ref="char:EOLhyphen"/>ken by ſtorm, and the <g ref="char:V">Ʋ</g>lſter Rebels totally defeated. Happy news: but of double uſe, ſo neer our ingagement. It was one, ere the train and rear came up, and neer three ere we could be put into Battalia. With extraordi<g ref="char:EOLhyphen"/>nary ſhouts, and other ſymptoms of courage, and joy, the Weſtern Body advanced, and by the forlorn hopes of Horſe, quickly begun the fight, which with as much eagerneſſe was ſe<g ref="char:EOLhyphen"/>conded by the Foot; ſo as for three hours the fight was maintained with as much reſoluti<g ref="char:EOLhyphen"/>on and bravery on our ſide, and deſperateneſſe on the other, as hath been ſeen ſince the com<g ref="char:EOLhyphen"/>mencement of theſe Wars; the Canon &amp; ſmall ſhot on both ſides firing with as quick a moti<g ref="char:EOLhyphen"/>on as was poſſible; and amongſt the foot, to ſpeak impartially, his Excellencies Regiment did eminently well, of whom and of the reſt we can ſpeak very juſtly; We neither ſaw man or party, horſe or foot, either to diſſert his duty or diſ-hearten his fellow; but after a long and hot diſpute, we beat them firſt from their work, and then from their Ordinance, <hi>9</hi> in number; in which Atchievement we loſt a few men, but with them Capt. <hi>Gawler,</hi> a <hi>Glamorganſhire</hi> Gent.
+<pb facs="tcp:125742:4"/>who by an honorable and triumphant hazard bequeathed it to us with his life, an expreſſion ſufficient to entitle him <hi>True to his charge,</hi> not<g ref="char:EOLhyphen"/>withſtanding his captivity in <hi>Cornwall.</hi> The day was of ſo much diſcontent to His Majeſty, that wrapping up his loſſes with the night, au<g ref="char:EOLhyphen"/>hour after mid-night hee marcht out of the town with an Attendant-troop only, towards <hi>Wincheſter,</hi> and ſent up his Canon, Carriages and Baggage to the Caſtle, where (at day<g ref="char:EOLhyphen"/>break) we ſaw them placed. Vpon the firſt in<g ref="char:EOLhyphen"/>telligence of their departure, Col: <hi>Cromwell</hi> followed the body of the Enemy two hours be<g ref="char:EOLhyphen"/>fore day, the iſſue of which as yet we hear not of. Our men are full of ſpirit, and heightned by this Victory. The Enemy have little to ſupport them, but their Rodomonts. In the mean time, as an addition and ſignall of good ſucceſſe, we have the Earl of <hi>Cleaveland</hi> priſo<g ref="char:EOLhyphen"/>ner, taken by a Lieutenant of Col: <hi>Berkleys,</hi> he wonders how Gen: <hi>Goring</hi> eſcaped; but his bro<g ref="char:EOLhyphen"/>ther payd his accompt, being ſhot dead as he charged; moſt of his Troop were cut of: Ma<g ref="char:EOLhyphen"/>jor <hi>Trevillian,</hi> and divers other whoſe bodies are ſeen, but names as yet undiſcovered: Above <hi>200.</hi> ſlain of theirs, and <hi>300.</hi> more Priſoners;
+<pb facs="tcp:125742:4"/>of which, <hi>Philpot, Mildmay,</hi> ſon to Sir <hi>Humphrey</hi> and <hi>Nevyt.</hi> We hope for a proſecution of this victory. God direct our Councell, continue our courage, prevent our wants, and inlarge our hearts with praiſe. For this ſilences their braves of <hi>Cornwall,</hi> and indeed twas re<g ref="char:EOLhyphen"/>ſented by our men, with that indignation, that very few of that County had quarter afforded. The King at His departure hence, told the Mayor (as they ſay) that they were wicked Roundheads: For ſince His being amongſt them, they had never furniſht Him with any intelligence; whereof the Corniſh had upon every occaſion given Him notice of every thing.</p>
+            <p>
+               <hi>We have Ordered and Proclaimed hereupon a penalty, That every man that has any of the Enemies Army, bring them to the main Guard, for the uſe of the Army. We have commanded in alſo many Teems, and Horſe to draw our new Train, and the wounded men, and have aſsiſted the Commiſſaries for proviſion: And under<g ref="char:EOLhyphen"/>ſtanding that twelve Cheſts for Chirurgery are coming towards us, ſhall carefully ſee them diſpoſed according to your intentions. Surgeons are <gap reason="illegible" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> wanting; and ſuch as be in pay, and abſent, ſhall be noted againſt
+<pb facs="tcp:125742:5"/>Muſters. This is all, ſave that by Divine Providence, this poor Town was ſaved from firing by the Enemy, rather then we ſhould poſſeſſe it. Suffer onely the Ad<g ref="char:EOLhyphen"/>dition, that we are</hi>
+            </p>
+            <closer>
+               <salute>Sir,</salute> 
+               <signed>your Honours moſt humble and moſt faithfull Servants,
+<list>
+                     <item>Martin Pindar,</item>
+                     <item>Thomas Herbert</item>
+                     <item>Iohn Prickman,</item>
+                     <item>Stephen White.</item>
+                  </list>
+               </signed>
+               <dateline>Newbery,
+<date>28. <hi>Octob.</hi> Munday.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>The Chirurgeons Cheſts of Medicaments are come this day very ſeaſonably, and we have diſtributed them to ſuch as are here to re<g ref="char:EOLhyphen"/>ceive them.</p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
